@@ -225,9 +225,9 @@ library AaveV3ArbitrumAssets {
   // https://arbiscan.io/address/0x639Fe6ab55C921f74e7fac1ee960C0B6293ba612
   address internal constant WETH_ORACLE = 0x639Fe6ab55C921f74e7fac1ee960C0B6293ba612;
 
-  // https://arbiscan.io/address/0xd56eE97960b1b2953e751151Fd84888cF3F3b521
+  // https://arbiscan.io/address/0x42ec99A020B78C449d17d93bC4c89e0189B5811d
   address internal constant WETH_INTEREST_RATE_STRATEGY =
-    0xd56eE97960b1b2953e751151Fd84888cF3F3b521;
+    0x42ec99A020B78C449d17d93bC4c89e0189B5811d;
 
   // https://arbiscan.io/address/0x352F3475716261dCC991Bd5F2aF973eB3D0F5878
   address internal constant WETH_STATA_TOKEN = 0x352F3475716261dCC991Bd5F2aF973eB3D0F5878;
@@ -487,9 +487,9 @@ library AaveV3ArbitrumAssets {
   // https://arbiscan.io/address/0x517276B5972C4Db7E88B9F76Ee500E888a2D73C3
   address internal constant weETH_ORACLE = 0x517276B5972C4Db7E88B9F76Ee500E888a2D73C3;
 
-  // https://arbiscan.io/address/0x0fc12Ad84210695dE8C0D5D8B6f720C37cEaB02f
+  // https://arbiscan.io/address/0x4011fcd421b9E90f131B164EC1d162DBE269621C
   address internal constant weETH_INTEREST_RATE_STRATEGY =
-    0x0fc12Ad84210695dE8C0D5D8B6f720C37cEaB02f;
+    0x4011fcd421b9E90f131B164EC1d162DBE269621C;
 }
 
 library AaveV3ArbitrumEModes {
